@@ -7,7 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ["davisjr2000"]
   s.email       = 'davisrobertosouza@gmail.com'
   s.files       = ["lib/roberto_barros.rb"]
-  s.homepage    =
-    'https://rubygems.org/gems/roberto_barros'
-  s.license       = 'MIT'
+  s.homepage    = 'https://github.com/davisjr2000/roberto-barros'
+  s.license     = 'MIT'
 end
