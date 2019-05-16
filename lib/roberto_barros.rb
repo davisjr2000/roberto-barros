@@ -6,7 +6,7 @@ class RobertoBarros
       "Eu acho que quem tatua o rosto não entende como a sociedade funciona.",
       "Mas se esse computador está ruim, se você colocar Windows vai ficar pior ainda!",
       "Né...",
-      "Não existe projeto simplificado, existe Dev sem imaginação.",
+      "Não existe projeto simples, existe Dev sem imaginação.",
       "Se o código não é simples, não é Ruby.",
       "Um site nunca fica pronto. Mas você precisa entregar em algum momento.",
       "E aí você toma um erro no meio de fuça!",
@@ -17,7 +17,8 @@ class RobertoBarros
       "Não existem limites para a criatividade do ser humano.",
       "Está um ótimo dia para programar.",
       "O importante da regra é saber quando quebrar a regra.",
-      "Reboot quem dá é a vida."
+      "Reboot quem dá é a vida.",
+      "Não faz sentido! Ele quer trocar seis por meia dúzia!!"
     ].sample
   end
 end
