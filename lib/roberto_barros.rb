@@ -21,4 +21,30 @@ class RobertoBarros
       "Não faz sentido! Ele quer trocar seis por meia dúzia!!"
     ].sample
   end
+
+  def self.in_ingrish
+    return [
+      "Ueh?",
+      "Sumo fighters can't wipe their asses by themselves.",
+      "I think people who tattoo their faces don't grasp how society works.",
+      "If it is bad, installing Windows will only make it worse!",
+      "Neh...",
+      "There is no such thing as a simplified project, there are Devs without imagination.",
+      "If it is not simple, it is not Ruby.",
+      "A site is never ready but you need to deliver it at some point.",
+      "And then you get an error message in your pretty face!",
+      "Dude writes Ruby on RAILS and draws a HIGHWAY.",
+      "It makes no sense what you're doing!",
+      "Can do, you can, you may, but I cannot understand why someone would do it.",
+      "Copy is the first step to creation.",
+      "There are no limits to the creativity of the human being.",
+      "Today is a great day to code.",
+      "The important thing about rules is knowing when to break them",
+      "It's life what gives you the real Reboot.",
+    ].sample
+  end
+
+  def self.is_genius?
+    return true
+  end
 end
