@@ -32,7 +32,7 @@ class RobertoBarros
       "If it is not simple, it is not Ruby.",
       "A site is never ready but you need to deliver it at some point.",
       "And then you get an error message in our pretty face!",
-      "Sude writes Ruby on Rails and draw a highway.",
+      "Dude writes Ruby on Rails and draw a highway.",
       "It makes no sense what you're doing!",
       "Can do, you can, you may, but I cannot understand why someone would do it.",
       "Copy is the first step to creation.",
