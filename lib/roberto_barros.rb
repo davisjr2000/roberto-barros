@@ -20,4 +20,30 @@ class RobertoBarros
       "Reboot quem dá é a vida.",
     ].sample
   end
+
+  def self.in_ingrish
+    return [
+      "Ueh?",
+      "Sumo fighters can't wipe their own asses without help.",
+      "I think people who tattoo their faces don't grasp how society works.",
+      "If it is bad, installing Windows will make it worse!",
+      "Neh...",
+      "There is no such thing as simplified project, there is Devs without imagination.",
+      "If it is not simple, it is not Ruby.",
+      "A site is never ready but you need to deliver it at some point.",
+      "And then you get an error in our pretty face!",
+      "Sude writes Ruby on Rails and draw a highway.",
+      "It makes no sense what you're doing!",
+      "Can do, you can, you may, but I cannot understand why someone would do it.",
+      "Copy is the first step to creation.",
+      "There are no limits to the creativity of the human being.",
+      "Today is a great day to code.",
+      "The important thing about rules is nowing when to break it",
+      "It's life what gives you the real Reboot.",
+    ].sample
+  end
+
+  def self.is_genius?
+    return true
+  end
 end
