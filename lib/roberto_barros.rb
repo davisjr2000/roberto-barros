@@ -18,7 +18,8 @@ class RobertoBarros
       "Está um ótimo dia para programar.",
       "O importante da regra é saber quando quebrar a regra.",
       "Reboot quem dá é a vida.",
-      "Não faz sentido! Ele quer trocar seis por meia dúzia!!"
+      "Não faz sentido! Ele quer trocar seis por meia dúzia!!",
+      "Scrum dá para aprender em 15 minutos, rsrsrs"
     ].sample
   end
 
@@ -41,6 +42,7 @@ class RobertoBarros
       "Today is a great day to code.",
       "The important thing about rules is knowing when to break them",
       "It's life what gives you the real Reboot.",
+      "It only takes 15 minutes to learn srcrum, lol"
     ].sample
   end
 
