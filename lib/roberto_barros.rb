@@ -42,6 +42,7 @@ class RobertoBarros
       "Today is a great day to code.",
       "The important thing about rules is knowing when to break them",
       "It's life what gives you the real Reboot.",
+      "It doesn't make sense! He wants to exchange six for a half dozen!!",
       "It only takes 15 minutes to learn srcrum, lol"
     ].sample
   end
