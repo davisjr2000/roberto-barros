@@ -20,7 +20,8 @@ class RobertoBarros
       "Reboot quem dá é a vida.",
       "Não faz sentido! Ele quer trocar seis por meia dúzia!!",
       "Scrum dá para aprender em 15 minutos, rsrsrs",
-      "A vida é muito curta para desperdiçar programando em Java."      
+      "A vida é muito curta para desperdiçar programando em Java.",
+      "Open Source é a programação mais eficiente que existe"
     ].sample
   end
 
