@@ -51,6 +51,13 @@ class RobertoBarros
     ].sample
   end
 
+  def self.fact
+    return [
+      "As letras '.rb' no final dos arquivos na verdade significam Roberto Barros",
+      "Um belo dia, Roberto Barros viu um menino cabisbaixo na calçada, precisando de ajuda com Ruby.\nEle ensinou ao menino tudo o que sabia sobre a linguagem.\nO nome desse menino? Yukihiro Matsumoto."
+     ].sample
+  end
+
   def self.is_genius?
     return true
   end
