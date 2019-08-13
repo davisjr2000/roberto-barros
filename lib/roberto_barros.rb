@@ -19,7 +19,8 @@ class RobertoBarros
       "O importante da regra é saber quando quebrar a regra.",
       "Reboot quem dá é a vida.",
       "Não faz sentido! Ele quer trocar seis por meia dúzia!!",
-      "Scrum dá para aprender em 15 minutos, rsrsrs"
+      "Scrum dá para aprender em 15 minutos, rsrsrs",
+      "A vida é muito curta para desperdiçar programando em Java."      
     ].sample
   end
 
@@ -43,7 +44,8 @@ class RobertoBarros
       "The important thing about rules is knowing when to break them",
       "It's life what gives you the real Reboot.",
       "It doesn't make sense! He wants to exchange six for a half dozen!!",
-      "It only takes 15 minutes to learn srcrum, lol"
+      "It only takes 15 minutes to learn scrum, lol",
+      "Life is too short to waste coding in Java."
     ].sample
   end
 
