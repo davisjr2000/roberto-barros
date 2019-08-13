@@ -10,7 +10,7 @@ class RobertoBarros
       "Se o código não é simples, não é Ruby.",
       "Um site nunca fica pronto. Mas você precisa entregar em algum momento.",
       "E aí você toma um erro no meio de fuça!",
-      "A pessoa escreve Rubens nos Trilhos e desenha uma rodovia.",
+      "A pessoa escreve Ruby on RAILS e desenha uma rodovia.",
       "Mas não faz sentido o que você está fazendo!",
       "Poder, poder, você pode, mas não sei porque você faria isso.",
       "A cópia é o primeiro passo para a criação.",
@@ -20,16 +20,15 @@ class RobertoBarros
       "Reboot quem dá é a vida.",
       "Não faz sentido! Ele quer trocar seis por meia dúzia!!",
       "Scrum dá para aprender em 15 minutos, rsrsrs",
-      "A vida é muito curta para desperdiçar programando em Java.",
-      "Open Source é a programação mais eficiente que existe"
+      "A vida é muito curta para desperdiçar programando em Java."      
     ].sample
   end
 
   def self.in_ingrish
     return [
       "Ueh?",
-      "Sumo fighters can't wipe their asses by themselves.",
-      "I think people who tattoo their faces don't grasp how society works.",
+      "Sumo fighters don't wipe their asses alone.",
+      "I think people who tattoo their faces don't grasp how Society works.",
       "If it is bad, installing Windows will only make it worse!",
       "Neh...",
       "There is no such thing as a simplified project, there are Devs without imagination.",
@@ -46,8 +45,7 @@ class RobertoBarros
       "It's life what gives you the real Reboot.",
       "It doesn't make sense! He wants to exchange six for a half dozen!!",
       "It only takes 15 minutes to learn scrum, lol",
-      "Life is too short to waste coding in Java.",
-      "Open Source is the most efficient programming ever"
+      "Life is too short to waste it coding in Java."
     ].sample
   end
 
