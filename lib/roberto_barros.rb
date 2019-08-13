@@ -28,8 +28,8 @@ class RobertoBarros
   def self.in_ingrish
     return [
       "Ueh?",
-      "Sumo fighters can't wipe their asses by themselves.",
-      "I think people who tattoo their faces don't grasp how society works.",
+      "Sumo fighters don't wipe their asses alone.",
+      "I think people who tattoo their faces don't grasp how Society works.",
       "If it is bad, installing Windows will only make it worse!",
       "Neh...",
       "There is no such thing as a simplified project, there are Devs without imagination.",
@@ -46,8 +46,8 @@ class RobertoBarros
       "It's life what gives you the real Reboot.",
       "It doesn't make sense! He wants to exchange six for a half dozen!!",
       "It only takes 15 minutes to learn scrum, lol",
-      "Life is too short to waste coding in Java.",
-      "Open Source is the most efficient programming ever"
+      "Life is too short to waste it coding in Java.",
+      "Open Source is the most efficient software ever"
     ].sample
   end
 
