@@ -46,7 +46,8 @@ class RobertoBarros
       "It's life what gives you the real Reboot.",
       "It doesn't make sense! He wants to exchange six for a half dozen!!",
       "It only takes 15 minutes to learn scrum, lol",
-      "Life is too short to waste coding in Java."
+      "Life is too short to waste coding in Java.",
+      "Open Source is the most efficient programming ever"
     ].sample
   end
 
