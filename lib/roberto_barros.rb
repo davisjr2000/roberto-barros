@@ -52,9 +52,21 @@ class RobertoBarros
   end
 
   def self.fact
+    matz = <<~MATZ
+      Um belo dia, Roberto Barros viu um menino cabisbaixo na calçada,
+      precisando de ajuda com Ruby.\n\nEle ensinou ao menino tudo o que sabia
+      sobre a linguagem.\n\nO nome desse menino? Yukihiro Matsumoto.
+    MATZ
+    magaiver = <<~PLOC
+      Quando era pequeno, Roberto Barros construiu um computador usando apenas
+      107cm de fio de cobre, um relógio de pulso Casio, uma figurinha do
+      Campeonato Brasileiro de 89 e dois chicletes Ploc mascados.
+    PLOC
     return [
+      magaiver,
+      matz,
+      "A branch 'master' nos repositórios de Git foi inspirada em Roberto Barros",
       "As letras '.rb' no final dos arquivos na verdade significam Roberto Barros",
-      "Um belo dia, Roberto Barros viu um menino cabisbaixo na calçada, precisando de ajuda com Ruby.\nEle ensinou ao menino tudo o que sabia sobre a linguagem.\nO nome desse menino? Yukihiro Matsumoto."
      ].sample
   end
 
