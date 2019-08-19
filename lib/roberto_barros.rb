@@ -17,6 +17,7 @@ class RobertoBarros
       "Não existem limites para a criatividade do ser humano.",
       "Está um ótimo dia para programar.",
       "O importante da regra é saber quando quebrar a regra.",
+      "Quando você está programando, seu pior inimigo é você mesmo.",
       "Reboot quem dá é a vida.",
       "Não faz sentido! Ele quer trocar seis por meia dúzia!!",
       "Scrum dá para aprender em 15 minutos, rsrsrs",
