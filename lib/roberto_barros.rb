@@ -1,27 +1,28 @@
 class RobertoBarros
   def self.quote
     return [
-      "Ué?",
-      "Lutador de sumô não limpa a bunda sozinho.",
-      "Eu acho que quem tatua o rosto não entende como a sociedade funciona.",
-      "Mas se esse computador está ruim, se você colocar Windows vai ficar pior ainda!",
-      "Né...",
-      "Não existe projeto simples, existe Dev sem imaginação.",
-      "Se o código não é simples, não é Ruby.",
-      "Um site nunca fica pronto. Mas você precisa entregar em algum momento.",
-      "E aí você toma um erro no meio de fuça!",
-      "A pessoa escreve Rubens nos Trilhos e desenha uma rodovia.",
-      "Mas não faz sentido o que você está fazendo!",
-      "Poder, poder, você pode, mas não sei porque você faria isso.",
       "A cópia é o primeiro passo para a criação.",
-      "Não existem limites para a criatividade do ser humano.",
-      "Está um ótimo dia para programar.",
-      "O importante da regra é saber quando quebrar a regra.",
-      "Reboot quem dá é a vida.",
-      "Não faz sentido! Ele quer trocar seis por meia dúzia!!",
-      "Scrum dá para aprender em 15 minutos, rsrsrs",
+      "A pessoa escreve Rubens nos Trilhos e desenha uma rodovia.",
       "A vida é muito curta para desperdiçar programando em Java.",
-      "Open Source é a programação mais eficiente que existe"
+      "E aí você toma um erro no meio da fuça!",
+      "Está um ótimo dia para programar.",
+      "Eu acho que quem tatua o rosto não entende como a sociedade funciona.",
+      "Lutador de sumô não limpa a bunda sozinho.",
+      "Mas não faz sentido o que você está fazendo!",
+      "Mas se esse computador está ruim, se você colocar Windows vai ficar pior ainda!",
+      "Não existe projeto simples, existe dev sem imaginação.",
+      "Não existem limites para a criatividade do ser humano.",
+      "Não faz sentido! Ele quer trocar seis por meia dúzia!!",
+      "Né...",
+      "O importante da regra é saber quando quebrar a regra.",
+      "Open Source é a programação mais eficiente que existe.",
+      "Poder, poder, você pode, mas não sei porque você faria isso.",
+      "Quando você está programando, seu pior inimigo é você mesmo.",
+      "Reboot quem dá é a vida.",
+      "Scrum dá para aprender em 15 minutos, rsrsrs",
+      "Se o código não é simples, não é Ruby.",
+      "Ué?",
+      "Um site nunca fica pronto. Mas você precisa entregar em algum momento."
     ].sample
   end
 
@@ -52,9 +53,21 @@ class RobertoBarros
   end
 
   def self.fact
+    matz = <<~MATZ
+      Um belo dia, Roberto Barros viu um menino cabisbaixo na calçada,
+      precisando de ajuda com Ruby.\n\nEle ensinou ao menino tudo o que sabia
+      sobre a linguagem.\n\nO nome desse menino? Yukihiro Matsumoto.
+    MATZ
+    magaiver = <<~PLOC
+      Quando era pequeno, Roberto Barros construiu um computador usando apenas
+      107cm de fio de cobre, um relógio de pulso Casio, uma figurinha do
+      Campeonato Brasileiro de 89 e dois chicletes Ploc mascados.
+    PLOC
     return [
+      magaiver,
+      matz,
+      "A branch 'master' nos repositórios de Git foi inspirada em Roberto Barros",
       "As letras '.rb' no final dos arquivos na verdade significam Roberto Barros",
-      "Um belo dia, Roberto Barros viu um menino cabisbaixo na calçada, precisando de ajuda com Ruby.\nEle ensinou ao menino tudo o que sabia sobre a linguagem.\nO nome desse menino? Yukihiro Matsumoto."
      ].sample
   end
 
