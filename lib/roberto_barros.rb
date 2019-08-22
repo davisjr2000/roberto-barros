@@ -22,12 +22,16 @@ class RobertoBarros
       "Scrum dá para aprender em 15 minutos, rsrsrs",
       "Se o código não é simples, não é Ruby.",
       "Ué?",
-      "Um site nunca fica pronto. Mas você precisa entregar em algum momento."
+      "Um site nunca fica pronto. Mas você precisa entregar em algum momento.",
+      "Essa é a mágica, que é mágica nenhuma que o rails faz.",
+      "Em programação ou tem 0, ou tem 1 ou têm vários."
     ].sample
   end
 
   def self.in_ingrish
     return [
+      "This is the magic, that isn't magic that rails does.",
+      "In programming has 0, or 1, or many",
       "Ueh?",
       "Sumo fighters don't wipe their asses alone.",
       "I think people who tattoo their faces don't grasp how Society works.",
