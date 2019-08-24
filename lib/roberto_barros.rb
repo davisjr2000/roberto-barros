@@ -24,7 +24,8 @@ class RobertoBarros
       "Ué?",
       "Um site nunca fica pronto. Mas você precisa entregar em algum momento.",
       "Essa é a mágica, que é mágica nenhuma que o rails faz.",
-      "Em programação ou tem 0, ou tem 1 ou têm vários."
+      "Em programação ou tem 0 ou tem 1 ou tem vários."
+      "Se começa com 'eco', não pode ser bom."
     ].sample
   end
 
@@ -53,6 +54,7 @@ class RobertoBarros
       "It only takes 15 minutes to learn scrum, lol",
       "Life is too short to waste it coding in Java.",
       "Open Source is the most efficient software ever"
+      "If it starts with 'eco', it can't be good."
     ].sample
   end
 
