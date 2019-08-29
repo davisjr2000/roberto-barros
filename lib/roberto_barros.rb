@@ -25,7 +25,8 @@ class RobertoBarros
       "Um site nunca fica pronto. Mas você precisa entregar em algum momento.",
       "Essa é a mágica, que é mágica nenhuma que o rails faz.",
       "Em programação ou tem 0 ou tem 1 ou tem vários.",
-      "Se começa com 'eco', não pode ser bom."
+      "Se começa com 'eco', não pode ser bom.", 
+      "Em 2019, performance se resolve com dinheiro."
     ].sample
   end
 
@@ -54,7 +55,8 @@ class RobertoBarros
       "It only takes 15 minutes to learn scrum, lol",
       "Life is too short to waste it coding in Java.",
       "Open Source is the most efficient software ever",
-      "If it starts with 'eco', it can't be good."
+      "If it starts with 'eco', it can't be good.", 
+      "In 2019, you solve performance with money."
     ].sample
   end
 
