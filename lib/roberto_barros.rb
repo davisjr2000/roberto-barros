@@ -1,7 +1,7 @@
 require 'yaml'
 
 class RobertoBarros
-  DATA = YAML.load(File.open('./data.yml'))
+  DATA = YAML::load_file(File.join(__dir__, 'data.yml'))
 
   def self.quote
     return DATA['pt-BR']['quotes'].sample
