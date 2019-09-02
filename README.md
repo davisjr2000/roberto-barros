@@ -63,3 +63,7 @@ RobertoBarros.quote #=> Está um ótimo dia para programar.
                             `:oyyyssoooooo++++++++///////////::/:-``    ```..``.`...-:/dmNNNN/      
                            .ys:/ssssooo++++++///+///////////::-.`       ``..```````..-hmmNNNN/      
                           .dNy/--+ooooo++++++///+//////:::::-`         ```.`````````.hmmmNNNN/  
+
+## Versioning
+
+This gem abides by [Semantic Versioning](www.semver.org) 2.0.0. The API is described in comments to each method.
