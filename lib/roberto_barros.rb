@@ -1,21 +1,32 @@
+# frozen_string_literal: true
+
 require 'yaml'
 
+# Return quotes and truths about the great Roberto Barros
 class RobertoBarros
-  DATA = YAML.load(File.open('./data.yml'))
+  DATA = YAML.safe_load(File.open('./data.yml'))
 
+  # Take no arguments. Return a quote straight from the mouth of the great
+  # Roberto Barros himself.
   def self.quote
-    return DATA['pt-BR']['quotes'].sample
+    DATA['pt-BR']['quotes'].sample
   end
 
+  # Take no arguments. Return a quote brilliantly translated into International
+  # Programmers' Language.
   def self.in_ingrish
-    return DATA['en']['quotes'].sample
+    DATA['en']['quotes'].sample
   end
 
+  # Take no arguments. Return a Chuck Norris-style fact (with the difference
+  # that these are true) about the great Roberto Barros.
   def self.fact
-    return DATA['pt-BR']['facts'].sample
+    DATA['pt-BR']['facts'].sample
   end
 
-  def self.is_genius?
-    return true
+  # Take no arguments. Return a boolean of whether the great Roberto Barros is
+  # a genius.
+  def self.genius?
+    true
   end
 end
