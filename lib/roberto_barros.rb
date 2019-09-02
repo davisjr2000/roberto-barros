@@ -4,7 +4,7 @@ require 'yaml'
 
 # Return quotes and truths about the great Roberto Barros
 class RobertoBarros
-  DATA = YAML.safe_load(File.open('./data.yml'))
+  DATA = YAML.load_file(File.join(__dir__, 'data.yml'))
 
   # Take no arguments. Return a quote straight from the mouth of the great
   # Roberto Barros himself.
