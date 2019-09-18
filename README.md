@@ -11,6 +11,13 @@ gem install roberto_barros
 require 'roberto_barros'
 
 RobertoBarros.quote #=> Está um ótimo dia para programar.
+
+RobertoBarros.in_ingrish #=> Today is a great day to code.
+
+RobertoBarros.genius? #=> true
+
+RobertoBarros.fact #=> As letras '.rb' no final dos arquivos na verdade significam Roberto Barros.
+
 ```
                             `.-/ossyyysso+/:--.``                                                   
                         `./ymNNNNNNNNNNNNmmNNNNmdhyo:`                                              
