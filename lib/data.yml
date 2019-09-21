@@ -30,7 +30,8 @@ pt-BR:
     "O difícil era ter que programar todo dia. Mas contanto que eu programasse todo dia, a cada dia ficava mais fácil.",
     "Pessoal, segue o código da aula de hoje",
     "Agora que você vai pegar o carro sozinho e dirigir pela estrada sozinho é que você vai realmente aprender a dirigir.",
-    "Os últimos 10% do tempo de desenvolvimento de um software consomem 90% do tempo total do projeto."
+    "Os últimos 10% do tempo de desenvolvimento de um software consomem 90% do tempo total do projeto.",
+    "Rentabilizar em cima do erro do usuário é um erro por si só."
   ]
   facts: [
     "Um belo dia, Roberto Barros viu um menino cabisbaixo na calçada,
@@ -72,5 +73,6 @@ en:
     "Ueh?",
     "When coding, you are your own worst enemy.",
     "The hard part is having to code every day. But, given that you code every day, each day becomes easier.",
-    "The last 10% of developing time of a software take actually 90% of the project time."
+    "The last 10% of developing time of a software take actually 90% of the project time.",
+    "Monetizing upon user error is a mistake by itself."
   ]
