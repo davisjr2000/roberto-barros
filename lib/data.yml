@@ -1,5 +1,8 @@
 pt-BR:
   quotes: [
+    "Próxima aula a gente podia fazer no Red Dead Redemption.",
+    "Essa solução até funciona, mas ela é meio burra.",
+    "Daí você seleciona o cerquilha #.",
     "A cópia é o primeiro passo para a criação.",
     "A pessoa escreve Rubens nos Trilhos e desenha uma rodovia.",
     "A vida é muito curta para desperdiçar programando em Java.",
@@ -41,6 +44,7 @@ pt-BR:
     "Um sênior é só um júnior que aprendeu como corrigir suas as cagadas sem criar novas."
   ]
   facts: [
+    "Reza a lenda que Roberto Barros foi o inventor do COBOL em tempos longínquos.",
     "Um belo dia, Roberto Barros viu um menino cabisbaixo na calçada,
      precisando de ajuda com Ruby. Ele ensinou ao menino tudo o que
      sabia sobre a linguagem. O nome desse menino? Yukihiro Matsumoto.",
@@ -50,6 +54,7 @@ pt-BR:
     "A branch 'master' nos repositórios de Git foi inspirada em Roberto Barros",
     "As letras '.rb' no final dos arquivos na verdade significam Roberto Barros",
     "Roberto Barros consegue plugar um cabo USB de primeira.",
+    "Antigamente Roberto colocava ventilador até em rack de servidor."
   ]
 en:
   quotes: [
