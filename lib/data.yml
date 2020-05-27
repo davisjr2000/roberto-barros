@@ -1,5 +1,8 @@
 pt-BR:
   quotes: [
+    "O melhor código é não ter código.",
+    "Você pode ter medo de muita coisa nessa vida, mas medo de sistema operacional não dá.",
+    "Daí você seleciona o cerquilha #",
     "A cópia é o primeiro passo para a criação.",
     "A pessoa escreve Rubens nos Trilhos e desenha uma rodovia.",
     "A vida é muito curta para desperdiçar programando em Java.",
@@ -41,13 +44,12 @@ pt-BR:
     "Um sênior é só um júnior que aprendeu como corrigir suas as cagadas sem criar novas.",
     "Próxima aula a gente podia fazer no Red Dead Redemption.",
     "Essa solução até funciona, mas ela é meio burra.",
-    "Daí você seleciona o cerquilha #.",
-    "O melhor código é não ter código!!",
-    "Você sempre pode fazer, mas não deve",
     "Você pode ter medo de muitas coisas nessa vida, mas ter medo de um sistema operacional não dá!",
+    "Você sempre pode fazer, mas não deve",
   ]
   facts: [
-    "Reza a lenda que Roberto Barros foi o inventor do COBOL em tempos longínquos.",
+    "Reza a lenda que Roberto Barros inventou o COBOL em tempos longínquos.",
+    "Antigamente Roberto Barros colocava ventilador até em rack de servidor.",
     "Um belo dia, Roberto Barros viu um menino cabisbaixo na calçada,
      precisando de ajuda com Ruby. Ele ensinou ao menino tudo o que
      sabia sobre a linguagem. O nome desse menino? Yukihiro Matsumoto.",
@@ -61,6 +63,9 @@ pt-BR:
   ]
 en:
   quotes: [
+    "The best code is not having code.",
+    "You can fear a lot of things in this life, but not operating systems.",
+    "Then you select the octothorp #",
     "A site is never ready but you need to deliver it at some point.",
     "And then you get an error message in your pretty face!",
     "Can do, you can, you may, but I cannot understand why someone would do it.",
