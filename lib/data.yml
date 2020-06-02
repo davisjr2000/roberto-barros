@@ -1,5 +1,7 @@
 pt-BR:
   quotes: [
+    "O maior desafio da Inteligência Artificial é a burrice natural.",
+    "Aqui na Le Wagon estamos nas condições normais de pressão e temperatura.",
     "O melhor código é não ter código.",
     "Você pode ter medo de muita coisa nessa vida, mas medo de sistema operacional não dá.",
     "Daí você seleciona o cerquilha #",
@@ -63,6 +65,8 @@ pt-BR:
   ]
 en:
   quotes: [
+    "The biggest challenge in Artificial Intelligence is natural stupidity.",
+    "Here at Le Wagon we are under standard conditions for temperature and pressure.",
     "The best code is not having code.",
     "You can fear a lot of things in this life, but not operating systems.",
     "Then you select the octothorp #",
