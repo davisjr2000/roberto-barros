@@ -29,4 +29,9 @@ class RobertoBarros
   def self.genius?
     true
   end
+  
+  # Take no arguments. Return a boolean if the code works on your machine
+  def self.work_on_my_machine?
+    true
+  end
 end
