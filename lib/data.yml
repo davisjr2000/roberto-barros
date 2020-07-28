@@ -66,6 +66,7 @@ pt-BR:
     "Fábrica de gema é galinha.",
     "ROLHA. RO-LHA.",
     "Seu código não liga se você sabe a teoria ou não, se ele não roda, ele não roda."
+    "Pizza é o alimento mais acolhedor que existe."
   ]
   facts: [
     "Um belo dia, Roberto Barros viu um menino cabisbaixo na calçada,
@@ -78,7 +79,8 @@ pt-BR:
     "As letras '.rb' no final dos arquivos na verdade significam Roberto Barros",
     "Roberto Barros consegue plugar um cabo USB de primeira.",
     "Reza a lenda que Roberto Barros inventou o COBOL em tempos longínquos.",
-    "Antigamente Roberto Barros colocava ventilador até em rack de servidor."
+    "Antigamente Roberto Barros colocava ventilador até em rack de servidor.",
+    "O Brasil é a Rússia das Américas"
   ]
 en:
   quotes: [
@@ -127,6 +129,7 @@ en:
     "The biggest challenge in Artificial Intelligence is natural stupidity.",
     "Funk and good make no sense in the same sentence.",
     "No one knows how to write with a pen nowadays.",
+    "Brazil is Russia from the Americas"
     "If you had dedicated all that time to una consulta you'd have five consuta by now.",
     "Being vegan is a bit disrespectful to your ancestors.",
     "Why, man? Just 'cause I'm right?",
@@ -144,4 +147,5 @@ en:
     "A chicken is a yolk maker.",
     "CORK. CO-RK.",
     "Your code doesn't care if you know the theory or not, if it doesn't work, it doesn't work."
+    "Pizza is the cosiest food ever."
   ]
