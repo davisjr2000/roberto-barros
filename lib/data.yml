@@ -29,6 +29,8 @@ pt-BR:
     "Um site nunca fica pronto, mas você precisa entregar em algum momento.",
     "O difícil era ter que programar todo dia. Mas contanto que eu programasse todo dia, a cada dia ficava mais fácil.",
     "Pessoal, segue o código da aula de hoje",
+    "Agora que você vai pegar o carro sozinho e dirigir pela estrada sozinho é que você vai realmente aprender a dirigir.",
+    "Os últimos 10% do tempo de desenvolvimento de um software consomem 90% do tempo total do projeto.",
     "Agora, que você vai pegar o carro sozinho e dirigir pela estrada sozinho, é que você vai realmente aprender a dirigir.",
     "Os últimos 10% do tempo de desenvolvimento de um software consomem 90% do tempo total do projeto.",
     "Rentabilizar em cima do erro do usuário é um erro por si só.",
@@ -77,7 +79,9 @@ pt-BR:
     "Podrão é sempre mais gostoso do que lanche gourmet.",
     "No navegador vc não pode ter favoritos, assim como na vida.",
     "Se você ainda não sabe o que é pull request a essa altura do campeonato, fica complicado...",
-    "Se você está demorando muito, provavelmente você está fazendo errado."
+    "Se você está demorando muito, provavelmente você está fazendo errado.",
+    "O Whatsapp tem uma feature imbatível em relação ao Telegram - todo mundo já usa o Whatsapp",
+    "O Telegram é o Betamax dos aplicativos de mensagem"
   ]
   facts: [
     "Um belo dia, Roberto Barros viu um menino cabisbaixo na calçada,
@@ -167,5 +171,7 @@ en:
     "Podrão is always tastier than a gourmet snack.",
     "In the browser you can't have favorites, just like in life.",
     "If you still don't know what pull request is at this moment, it's complicated...",
-    "If you're taking too long, you're probably doing it wrong."
+    "If you're taking too long, you're probably doing it wrong.",
+    "Whatsapp has a killer feature in comparison to Telegram - everyone uses Whatsapp",
+    "Telegram is the Betamax of messaging apps"
   ]
