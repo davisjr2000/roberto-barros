@@ -84,7 +84,8 @@ pt-BR:
     "O Telegram é o Betamax dos aplicativos de mensagem",
     "As pessoas aprendem de 2 jeitos - ou colocando uma cenoura na frente, ou colocando uma cenoura atrás.",
     "Não existe dom da escrita, assim como não existe dom da programação. Tudo é uma questão de praticar.",
-    "O View é uma classe como qualquer outra que a gente view."
+    "O View é uma classe como qualquer outra que a gente view.",
+    "A parte difícil de programar não é programar, mas lidar com as pessoas que estão programando com você"
   ]
   facts: [
     "Um belo dia, Roberto Barros viu um menino cabisbaixo na calçada,
@@ -179,5 +180,6 @@ en:
     "Telegram is the Betamax of messaging apps",
     "People learn in two ways - either by putting a carrot in front, or by putting a carrot in the back.",
     "There is no writing gift, just as there is no programming gift. Everything is a matter of practice.",
-    "View is a class like any other we've viewed."
+    "View is a class like any other we've viewed.",
+    "The toughest part about coding is not coding itself, but to deal with people coding in the same project"
   ]
