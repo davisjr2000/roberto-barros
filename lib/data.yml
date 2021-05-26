@@ -86,7 +86,8 @@ pt-BR:
     "A parte difícil de programar não é programar, mas lidar com as pessoas que estão programando com você.",
     "Equipamento bom mesmo é aquele que faz só uma coisa, mas muito bem feita.",
     "Pular de prédio é um hobby muito legal, pena que só dá pra fazer uma vez.",
-    "Drone no Brasil só funciona pra levar celular no presídio"
+    "Drone no Brasil só funciona pra levar celular no presídio",
+    "Aos 10 anos de idade você tinha a melhor coisa da vida - ter 10 anos de idade."
   ]
   facts: [
     "Um belo dia, Roberto Barros viu um menino cabisbaixo na calçada, precisando de ajuda com Ruby. Ele ensinou ao menino tudo o que sabia sobre a linguagem. O nome desse menino? Yukihiro Matsumoto.",
@@ -182,5 +183,6 @@ en:
     "The toughest part about coding is not coding itself, but to deal with people coding in the same project",
     "A really good equipment is the one that does only one thing, but very well done.",
     "Jumping from a building is a nice hobby, but it's a pity that you can only do it once.",
-    "Drone in Brazil only works to take cell phones to the prison"
+    "Drone in Brazil only works to take cell phones to the prison",
+    "At 10 years old you had the best thing in life - being 10 years old."
     ]
