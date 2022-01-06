@@ -92,7 +92,8 @@ pt-BR:
     "Tetris é na verdade uma metáfora da vida, pois nele seus erros se acumulam e os acertos desaparecem.",
     "A Nespresso é o McDonalds do café",
     "Requeijão não só é queijo, como é o rei dos queijos - REI QUEIJÃO",
-    "Essa ferramenta pode ser usada como uma faca, ou você passa manteiga no pão, ou você mata uma pessoa."
+    "Essa ferramenta pode ser usada como uma faca, ou você passa manteiga no pão, ou você mata uma pessoa.",
+    "Loteria é o imposto de quem não sabe estatística."
   ]
   facts: [
     "Um belo dia, Roberto Barros viu um menino cabisbaixo na calçada, precisando de ajuda com Ruby. Ele ensinou ao menino tudo o que sabia sobre a linguagem. O nome desse menino? Yukihiro Matsumoto.",
@@ -193,5 +194,6 @@ en:
     "Tetris is actually a metaphor for life, because there your mistakes accumulate and your successes disappear.",
     "Nespresso is the McDonald's from coffee",
     "Requeijão is not only cheese, it is the king of cheeses - BIG KING CHEESE",
-    "This tool can be used like a knife, or you butter bread, or you kill a person."
+    "This tool can be used like a knife, or you butter bread, or you kill a person.",
+    "Lottery is the tax for those who don't know statistics"
     ]
