@@ -2,8 +2,8 @@
 
 Gem::Specification.new do |s|
   s.name        = 'roberto_barros'
-  s.version     = '1.0.4'
-  s.date        = '2019-05-16'
+  s.version     = '1.0.5'
+  s.date        = '2023-02-07'
   s.summary     = 'Roberto Barros'
   s.description = "A simple gem that randomly generates quotes from \
                   the great Roberto Barros."
