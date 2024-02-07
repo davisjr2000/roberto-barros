@@ -96,7 +96,8 @@ pt-BR:
     "Loteria é o imposto de quem não sabe estatística.",
     "A gente aprende, aprende, aprende... e morre burro.",
     "A tecnologia tem medo de mim.",
-    "-- Qual o melhor 'date' que você já teve? -- Ano, mês, dia, hora, minuto e segundo."
+    "-- Qual o melhor 'date' que você já teve? -- Ano, mês, dia, hora, minuto e segundo.",
+    "Não é gambiarra se funciona"
   ]
   facts: [
     "Um belo dia, Roberto Barros viu um menino cabisbaixo na calçada, precisando de ajuda com Ruby. Ele ensinou ao menino tudo o que sabia sobre a linguagem. O nome desse menino? Yukihiro Matsumoto.",
@@ -201,5 +202,6 @@ en:
     "Lottery is the tax for those who don't know statistics",
     "We learn, learn, learn... and die dumb.",
     "Technology fears me.",
-    "-- What's the best date you've ever had? -- Year, month, day, hour, minute, second."
+    "-- What's the best date you've ever had? -- Year, month, day, hour, minute, second.",
+    "It is not 'gambiarra' if it works"
     ]
